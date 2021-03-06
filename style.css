@@ -28,11 +28,12 @@ body {
 /* Estilizar o Link */
 a {
     display: block;
-    max-width: 400px;
+    max-width: 550px;
     margin: 0 auto 19px;
     padding: 15px 20px;
-    font-size: 20px;color:rgb(5, 4, 4);
-    border: 3px solid 	#fff;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    border: 2px solid 	#fff;
     text-decoration: none;
     transition: all .2s ease-in-out;
     border-radius: 50px;
@@ -46,3 +47,4 @@ a:hover {
     color:#fff;
     font-size: 18px;
 }
+
